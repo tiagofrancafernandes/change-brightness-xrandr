@@ -34,3 +34,8 @@ The name of these monitors are **HDMI-1** and **eDP-1** respectively. And use:
 alias mon1-down='/path-to-script/change-brightness-xrandr.sh HDMI-1 down'
 alias mon1-up='/path-to-script/change-brightness-xrandr.sh HDMI-1 up'
 ```
+### TODO
+- [ ] Keep last config (To use for example at startup)
+- [ ] Create a tutorial MD
+
+##### Pull requests are welcome
