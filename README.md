@@ -2,6 +2,12 @@
 
 ##### Change the brightness for use in keyboard shortcuts or aliases.
 
+
+>A Shell application, for those who use a system that does not allow to adjust the brightness of monitor 2 or for those who want to adjust the brightness using the keyboard.
+>Very simple to use.
+>You can create a keyboard shortcut on the system by pointing to the video you want.
+
+
 ## How to use
 ```
 ./change-brightness-xrandr.sh [Monitor-Name] [up | down]
